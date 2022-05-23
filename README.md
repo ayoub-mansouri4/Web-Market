@@ -1,7 +1,7 @@
 # WebMaket-App-React-ExpressJs
 
 ## Problématiques :
-Les principaux problèmes que j’ai remarqués :
+Les principaux problèmes que nous avons remarqué :
 - La majorité des personnes ratent les opportunités d’achat.
 - Il y a ceux qui rencontrent des difficultés lors de la commercialisation des produits .
 ## La solution :
