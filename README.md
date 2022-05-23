@@ -1,4 +1,4 @@
-# WebMaket-App-React-ExpressJs
+# WebMaket-App-agile
 
 ## Problématiques :
 Les principaux problèmes que nous avons remarqué :
